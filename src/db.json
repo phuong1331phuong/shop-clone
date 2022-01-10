@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Korean Fashion Bangtan",
+       "description": "Description for product item number 1",
+       "thumnail": "https://i.pinimg.com/564x/c8/75/42/c8754205d67bef791555d7bdfdd4d5be.jpg",
+       "price": 5.99,
+       "quantity": 2
+       },
+       {
+       "id": 2,
+       "name": "Couple Dress",
+       "description": "Description for product item number 2" ,
+       "thumnail": "https://i.pinimg.com/564x/ef/62/d7/ef62d70ab73926db78459c9628c828a0.jpg",
+       "price": 9.99,
+       "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Babydoll Dress",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/b9/95/94/b995949e49b225f9b202f5a186e5928a.jpg",
+        "price": 9.99,
+        "quantity": 1
+       },
+       {
+        "id": 4,
+        "name": "Something Sepecial",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/ef/62/d7/ef62d70ab73926db78459c9628c828a0.jpg",
+        "price": 9.99,
+        "quantity": 1
+       },
+       {
+        "id": 5,
+        "name": "Floral Shirts Outfit For Men",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/68/04/14/680414f948622b0203c1b0056974d475.jpg",
+        "price": 9.99,
+        "quantity": 1
+       },
+       {
+        "id": 6,
+        "name": "Dicas Para Deixar o Seu Look Com Calça Jeans Incrível",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/b3/bc/37/b3bc37b744a93855a189731518845e45.jpg",
+        "price": 9.99,
+        "quantity": 1
+       },
+       {
+        "id": 7,
+        "name": "Tulips Bloom Paris",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/95/30/8e/95308e7762a714c6a9f8b5257cedfb6c.jpg",
+        "price": 9.99,
+        "quantity": 1
+       },
+       {
+        "id": 8,
+        "name": "Tyler, the Creator is in full bloom",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/20/23/62/202362981aced9e9e32944dd767d7c0f.jpg",
+        "price": 9.99,
+        "quantity": 1
+       },
+       {
+        "id": 9,
+        "name": "Tulips vest",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/33/bb/2c/33bb2ca8613d6dd8ee53747d1bc4b201.jpg",
+        "price": 9.99,
+        "quantity": 1
+       },
+       {
+        "id": 10,
+        "name": "Very Cool Sweatshirt",
+        "description": "Description for product item number 2" ,
+        "thumnail": "https://i.pinimg.com/564x/46/3b/0f/463b0f849b645512e4567395409d489b.jpg",
+        "price": 9.99,
+        "quantity": 1
+       }
+
+
+  ]
+}

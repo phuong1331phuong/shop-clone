@@ -1,0 +1,15 @@
+
+<img class="bd-placeholder-img card-img-top p-2" width="100%" heigth="100px" [src]="productItem.thumnail" />
+<div class="card-body">
+  <p class="card-text"><b>{{productItem.name}}: {{productItem.description}}</b></p>
+  <div class="d-flex justify-content-between align-items-center">
+    <div class="btn-group">
+      <button type="button" class="btn btn-sm btn-outline-secondary">More Detail</button>
+      <button
+        type="button" class="btn btn-sm btn-outline-secondary"
+        (click) = "handleAddToCart()"
+        >Add To Cart</button>
+    </div>
+    <small class="text-muted">9 mins</small>
+  </div>
+</div>
